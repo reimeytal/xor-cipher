@@ -1,2 +1,3 @@
 xor-cipher
 *.o
+*.txt
